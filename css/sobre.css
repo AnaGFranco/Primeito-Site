@@ -1,0 +1,26 @@
+#principal {	
+	color: #A52A2A;
+	font-family:Verdana;	
+}
+
+h1{
+	color:white;
+ 	-webkit-text-stroke-width: 2.5px; /* largura da borda */
+    	-webkit-text-stroke-color: #000;
+	background-image: url("../img/sobre-background.jpg");
+	text-align: center;
+}
+
+h2{
+	border: 7px solid #006400;
+	-webkit-text-stroke-width: 2px; /* largura da borda */
+    	-webkit-text-stroke-color: #8B0000;
+}	
+figure{
+	background:#CD5C5C;
+	-webkit-text-stroke-width: 2px; /* largura da borda */
+	-webkit-text-stroke-color: #006400; /* cor da borda */
+}	
+.container img { 
+	max-width: 100px; 
+}
